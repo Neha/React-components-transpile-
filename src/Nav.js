@@ -1,5 +1,7 @@
 import React from "react";
 
-export const Nav = () => {
+const Nav = () => {
   return <div>I am Nav!!</div>;
 };
+
+export default Nav;
